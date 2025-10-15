@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #000;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+.card{
+  background-color: pink ;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+.navbar{
+  background-color: lightblue;
+  margin: 10px;
+  padding: 10px;
+  
+}
+.navbar a{
+  margin: 0 15px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
